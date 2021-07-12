@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Git Logo](/git.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmwasielewski&layout=compact)](https://github.com/dmwasielewski/github-readme-stats)
+
 <!--
 **dmwasielewski/dmwasielewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
