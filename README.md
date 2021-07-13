@@ -35,7 +35,7 @@
 <br />
 <br />
 
-![Damian's GitHub stats](https://github-readme-stats-dmwasielewski.vercel.app//api?username=dmwasielewski&count_private=true)
+![Damian's GitHub stats](https://github-readme-stats-dmwasielewski.vercel.app/api?username=dmwasielewski&show_icons=true&count_private=true)
 
 [website]: https://namper.xyz
 [twitter]: https://twitter.com/dmwasielewski
