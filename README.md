@@ -1,8 +1,5 @@
 ### Hi there, I'm [Damian!][website] 👋
 
-<br />
-<br />
-
 ## I'm a Husband, Father, Self-Taught Dev
 
 <br />
