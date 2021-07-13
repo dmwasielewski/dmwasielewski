@@ -1,6 +1,12 @@
 ### Hi there, I'm [Damian!][website] 👋
 
+<br />
+<br />
+
 ## I'm a Husband, Father, Self-Taught Dev
+
+<br />
+<br />
 
 ### Connect with me:
 
@@ -10,6 +16,7 @@
 
 [<img align="left" alt="dmwasielewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -29,8 +36,6 @@
 
 <br />
 <br />
-
----
 
 ![Damian's GitHub stats](https://github-readme-stats-dmwasielewski.vercel.app//api?username=dmwasielewski&count_private=true)
 
