@@ -37,7 +37,7 @@
 <br />
 
 
-[website]: https://namper.xyz
+[website]: https://dmwasielewski.dev
 [twitter]: https://twitter.com/dmwasielewski
 [linkedin]: https://linkedin.com/in/dmwasielewski
 [html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
