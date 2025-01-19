@@ -1,6 +1,6 @@
 ### Hi there, I'm [Damian!][website] 👋
 
-### I'm a Husband, Father, Self-Taught Dev
+### Cyber security
 
 ### Connect with me:
 
