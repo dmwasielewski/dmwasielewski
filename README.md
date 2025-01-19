@@ -6,7 +6,6 @@
 
 [<img align="left" alt="dmwasielewski | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="dmwasielewski | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="dmwasielewski | WWW" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -37,8 +36,7 @@
 <br />
 
 
-[website]: https://dmwasielewski.dev
-[twitter]: https://twitter.com/dmwasielewski
+[website]: https://dmwasielewski.info
 [linkedin]: https://linkedin.com/in/dmwasielewski
 [html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
