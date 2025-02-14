@@ -11,7 +11,7 @@
 
 ### 🎯 Goals for 2025:
 - Gain practical experience in **penetration testing & security automation**
-- Contribute to **open-source security projects**
+- Contribute to **open-source projects**
 
 ### 📂 My Projects:
 - Cybersecurity: [GitHub Repo](https://github.com/dmwasielewski)
