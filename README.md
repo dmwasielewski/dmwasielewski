@@ -14,8 +14,8 @@
 - Contribute to **open-source security projects**
 
 ### 📂 My Projects:
-- Cybersecurity Labs: [GitHub Repo](https://github.com/dmwasielewski)
-- Cloud & DevOps Labs: [GitHub Repo](https://github.com/dmwasielewski)
+- Cybersecurity: [GitHub Repo](https://github.com/dmwasielewski)
+- Cloud & DevOps: [GitHub Repo](https://github.com/dmwasielewski)
 
 ### 📫 Connect with Me:
 <a href="https://linkedin.com/in/dmwasielewski" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
