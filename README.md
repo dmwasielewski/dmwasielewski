@@ -5,12 +5,11 @@
 
 ### 🚀 What I'm Learning:
 - Cybersecurity (Offensive & Defensive Security)
-- Cloud Computing (AWS, Azure, GCP)
-- DevOps (CI/CD, Infrastructure as Code, Kubernetes, Docker)
-- Linux & Automation (Bash, Ansible, Terraform)
+- Cloud Computing
+- DevOps 
+- Linux & Automation
 
-### 🎯 Goals for 2024:
-- Obtain **AWS Certified Solutions Architect**
+### 🎯 Goals for 2025:
 - Gain practical experience in **penetration testing & security automation**
 - Contribute to **open-source security projects**
 
@@ -19,17 +18,17 @@
 - Cloud & DevOps Labs: [GitHub Repo](https://github.com/dmwasielewski)
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/dmwasielewski)
-[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://dmwasielewski.info)
+<a href="https://linkedin.com/in/dmwasielewski" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24px"/></a>
+<a href="https://dmwasielewski.info" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="24px"/></a>
 
 ### 🛠️ Languages & Tools:
-[![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg)](https://aws.amazon.com/)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://www.docker.com/)
-[![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg)](https://kubernetes.io/)
-[![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)](https://www.terraform.io/)
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="24px"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24px"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24px"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24px"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24px"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="24px"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="24px"/></a>
 
 ---
 #### Always exploring, always learning! 🚀
