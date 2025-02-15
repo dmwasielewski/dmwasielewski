@@ -24,6 +24,7 @@
 ### 🛠️ Languages & Tools:
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/></a>
 <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-004472?style=flat&logo=nmap&logoColor=white"/></a>
 <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-1A1A1A?style=flat&logo=metasploit&logoColor=white"/></a>
 <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=flat&logo=burpsuite&logoColor=white"/></a>
