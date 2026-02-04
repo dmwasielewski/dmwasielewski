@@ -5,11 +5,12 @@
 
 ### 🚀 What I'm Learning:
 - Cybersecurity
-- Cloud Computing 
-- Automation
+- Cloud Computing (AWS & Azure)
+- Automation (Python, Bash, PowerShell)
 
 ### 🎯 Goals for 2026:
-- Gain practical experience in **penetration testing & security automation**
+- Gain practical experience in **SOC & security automation**
+- Build and document hands-on **home lab projects** 
 - Contribute to **open-source projects**
 
 ### 📂 My Projects:
