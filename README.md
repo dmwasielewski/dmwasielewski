@@ -6,7 +6,7 @@
 ### 🚀 What I'm Learning:
 - Cybersecurity
 - Cloud Computing 
-- Linux & Automation
+- Automation
 
 ### 🎯 Goals for 2026:
 - Gain practical experience in **penetration testing & security automation**
