@@ -1,7 +1,7 @@
 ### Hi there, I'm [Damian!](https://dmwasielewski.info)
 
 #### Still figuring out how to break things (ethically) and put them back together. 
-#### Passionate about **Cybersecurity, Cloud, and DevOps**, always on the lookout for new tech to explore... and constantly wondering why it worked yesterday but not today.
+#### Passionate about **Cybersecurity, Cloud, and IT**, always on the lookout for new tech to explore... and constantly wondering why it worked yesterday but not today.
 
 ### 🚀 What I'm Learning:
 - Cybersecurity
