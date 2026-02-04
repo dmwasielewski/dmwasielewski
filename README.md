@@ -1,6 +1,6 @@
 ### Hi there, I'm [Damian!](https://dmwasielewski.info)
 
-#### Still figuring out how to break things (ethically) and put them back together. 
+#### Still figuring out how to break things and put them back together. 
 #### Passionate about **Cybersecurity, Cloud, and IT**, always on the lookout for new tech to explore... and constantly wondering why it worked yesterday but not today.
 
 ### 🚀 What I'm Learning:
@@ -36,5 +36,3 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
 
----
-#### Always exploring, always learning! 🚀
